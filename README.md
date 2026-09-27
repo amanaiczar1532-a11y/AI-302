@@ -1,2 +1,2 @@
 # AI-302
-302 concepts of Artificial Intelligence for scratch to the research level
+302 concepts of Artificial Intelligence from scratch to the research level
